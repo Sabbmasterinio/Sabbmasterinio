@@ -2,4 +2,4 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning how to java 
 - 📫 How to reach me ?
--          Linkdin: Savvas Kouimtzidis
+-          Linkedin: Savvas Kouimtzidis
