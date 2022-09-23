@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sabbmasterinio
-- 👀 I’m interested in ...
+- 👀 I’m interested in getting to know the computer engineer field
 - 🌱 I’m currently learning how to java 
 - 📫 How to reach me ?
 -          Linkedin: Savvas Kouimtzidis
